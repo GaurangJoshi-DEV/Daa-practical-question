@@ -1,4 +1,4 @@
-ques>Selection sort in c
+// ques>Selection sort in c
 #include <stdio.h>
 
 void selectionSort(int arr[], int n) {
