@@ -1,5 +1,6 @@
-Ques>Program that finds three indices (i, j, k) such that arr[i] + arr[j] == arr[k].
-Solution>#include <stdio.h>
+// Ques>Program that finds three indices (i, j, k) such that arr[i] + arr[j] == arr[k].
+// Solution>
+#include <stdio.h>
 
 int findTripletWithSum(int arr[], int n) {
     for (int i = 0; i < n; i++) {
