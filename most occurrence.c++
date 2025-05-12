@@ -1,4 +1,4 @@
-Question:Find the most occurrence of an element in an array
+// Question:Find the most occurrence of an element in an array
 Solution:#include <stdio.h>
 
 void findMostFrequent(int arr[], int n) {
