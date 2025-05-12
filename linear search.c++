@@ -1,4 +1,4 @@
-Ques>Linear search code
+// Ques>Linear search code
 #include <stdio.h>
 
 int linearSearch(int arr[], int n, int x) {
