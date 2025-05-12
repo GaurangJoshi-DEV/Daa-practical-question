@@ -1,8 +1,8 @@
-Ques>Quick sort in c.
-solution>Quick Sort is a Divide and Conquer algorithm that selects a pivot element
-from the array and partitions the other elements into two sub-arrays, according to
-whether they are less than or greater than the pivot. The sub-arrays are then sorted 
-recursively.
+// Ques>Quick sort in c.
+// solution>Quick Sort is a Divide and Conquer algorithm that selects a pivot element
+// from the array and partitions the other elements into two sub-arrays, according to
+// whether they are less than or greater than the pivot. The sub-arrays are then sorted 
+// recursively.
 
 #include <stdio.h>
 
